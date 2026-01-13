@@ -1,6 +1,6 @@
 # proton-pass-deb-updater
 
-_All the kicks of keeping the Proton Pass app for Linux up-to-date without all the clicks._
+_All the kicks of keeping the [Proton Pass](https://proton.me/pass/download/linux) app for Linux up-to-date [without all the clicks](https://proton.me/support/set-up-proton-pass-linux)._
 
 The `update-proton-pass.sh` script automates and simplifies the process of installing and updating the Proton Pass app for Debian and Ubuntu (and derivatives). It is a simple bash script that checks for the latest version of the Proton Pass `.deb` package, downloads it, and installs or updates it on your system - assuming you don't already have the latest version installed.
 
